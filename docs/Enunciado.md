@@ -7,7 +7,7 @@ entregada por el cliente. Esta sección se considera como el sector más complic
 y de mayor incertidumbre en la caracterización geológica según el geomecánico a cargo. 
 La sección por utilizar se presenta en la Figura 1.
 
-![Perfil](docs/media/Perfil.png)
+![Perfil](./media/Perfil.png)
 
 Puede descargar la geometría del siguiente Link: <a href="./media/Ejercicio1.dxf" download>Descarga el archivo</a>
 
@@ -19,7 +19,7 @@ anisotropías en la roca y corresponde a la roca de menor calidad.
 
 A continuación, en la Tabla 1, se resume la caracterización geotécnica de las unidades.
 
-![Caracterización](docs/media/Tablas.png)
+![Caracterización](./media/Tablas.png)
 
 Adicionalmente, hidrogeología le entregó la estimación del nivel piezométrico. 
 Con lo anterior, se solicita:
@@ -30,7 +30,7 @@ Con lo anterior, se solicita:
 4.	La normativa exige FS 1.3 y 1.1 para modelos estáticos y pseudo estáticos, respectivamente. ¿Qué cambios de diseño propone para cumplir con la normativa? 
 5.	Comente acerca del impacto económico que implican estos cambios.
 
-![Cambiooos](docs/media/bob_esponja.png)
+![Cambiooos](./media/bob_esponja.png)
 
 Debido a inestabilidades recientes en terreno, geología reformuló todas las unidades 
 geotécnicas del proyecto. Debido a la poca información disponible durante las etapas 
