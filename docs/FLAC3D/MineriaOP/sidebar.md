@@ -1,5 +1,0 @@
-- [FLAC3D](./FLAC3D/README_flac3D.md)
-  - Minería OP
-    - [Pasos previos](./FLAC3D/MineriaOP/00_Pasos_previos.md)
-    - [Generacion Modelo](./FLAC3D/MineriaOP/01_GeneracionModelo.md)
-      - [Octree](./FLAC3D/MineriaOP/01a_Octree.md)

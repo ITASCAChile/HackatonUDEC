@@ -1,4 +1,4 @@
 - [Introducción](./README.md)
-- [*FLAC3D*](./FLAC3D/README_flac3D.md)
-- [Tutotiales](./Tutoriales/Tutoriales.md)
-- [Novedades](./changelog.md)
+- [Bases](./bases.md)
+- [Enunciados](./Enunciado.md)
+- [FAQ](./FAQ.md)
