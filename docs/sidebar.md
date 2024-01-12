@@ -1,4 +1,4 @@
 - [Introducción](./README.md)
 - [Bases](./bases.md)
-- [Enunciados](./Enunciado.md)
+- [Enunciado](./Enunciado.md)
 - [FAQ](./FAQ.md)

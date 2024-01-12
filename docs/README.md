@@ -5,8 +5,6 @@
 
 <a href="./media/Ejercicio1.dxf" download>Descarga el archivo</a>
 
-
-
 https://jubilant-barnacle-n82qw2m.pages.github.io/#/
 
 ## Introducción
