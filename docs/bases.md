@@ -1,4 +1,4 @@
-# Bases
+# Bases de la Hackathon
 
 ## Elegibilidad:
 
