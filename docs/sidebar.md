@@ -1,4 +1,7 @@
 - [Introducción](./README.md)
 - [Bases](./bases.md)
 - [Enunciado](./Enunciado.md)
+- [Tutorial](./Tutorial.md)
+- [Formato Entrega](./Formato.md)
+- [Participantes](./Participantes.md)
 - [FAQ](./FAQ.md)
