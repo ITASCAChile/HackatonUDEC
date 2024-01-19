@@ -17,9 +17,17 @@ Por ahora se han identificado 3 unidades geotécnicas; Suzukita, Manriquecita y
 Jarufita. Siendo el sector de Jarufita el más complicado, pues se identifican 
 anisotropías en la roca y corresponde a la roca de menor calidad. 
 
-A continuación, en la Tabla 1, se resume la caracterización geotécnica de las unidades.
+A continuación, en la Tablas, se resume la caracterización geotécnica de las unidades.
 
-![Caracterización](./media/Tablas.png)
+
+| Unidad       | Densidad(ton/m3) | Porosidad | GSI | mi | Sci(MPa) | Young(MPa) |
+|--------------|------------------|-----------|-----|----|----------|------------|
+| Suzukita     | 2750             | 0.12      | 55  | 25 | 120      | 5700       |
+| Manriquecita | 2650             | 0.13      | 60  | 20 | 70       | 5700       |
+
+| Unidad   | Densidad(ton/m3) | Porosidad | jdip(°) | jcoh(Pa) | jfri(°) | GSI | mi | Sci(MPa) | Young(MPa) |
+|----------|------------------|-----------|---------|----------|---------|-----|----|----------|------------|
+| Jarufita | 2750             | 0.01      | 50      | 75e3     | 20      | 25  | 10 | 30       | 5700       |
 
 Adicionalmente, hidrogeología le entregó la estimación del nivel piezométrico. 
 Con lo anterior, se solicita:
