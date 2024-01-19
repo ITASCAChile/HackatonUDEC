@@ -17,7 +17,7 @@ Si es necesario el equipo puede incluir una memoria de cálculo en Anexos.
 respectivamente. ¿Qué cambios de diseño propone para cumplir con la normativa? (40%)
 5. Comente acerca del impacto económico que implican estos cambios. (5%)
 
-### Parte 1 (50% del total)
+### Parte 2 (50% del total)
 
 1. Realice nuevamente el ejercicio anterior, esta vez, sin considerar la roca Jarufita. 
 El nuevo escenario proyecta la Suzukita y la Manriquecita a la superficie.¿Es estable? (30%)
