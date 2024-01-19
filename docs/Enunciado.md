@@ -27,7 +27,7 @@ A continuación, en la Tablas, se resume la caracterización geotécnica de las 
 
 | Unidad   | Densidad(ton/m3) | Porosidad | jdip(°) | jcoh(Pa) | jfri(°) | GSI | mi | Sci(MPa) | Young(MPa) |
 |----------|------------------|-----------|---------|----------|---------|-----|----|----------|------------|
-| Jarufita | 2750             | 0.01      | 75      | 55e3     | 18      | 25  | 10 | 30       | 5700       |
+| Jarufita | 2750             | 0.01      | 75      | 55e3     | 18      | 25  | 10 | 25       | 5700       |
 
 Adicionalmente, hidrogeología le entregó la estimación del nivel piezométrico. 
 Con lo anterior, se solicita:
