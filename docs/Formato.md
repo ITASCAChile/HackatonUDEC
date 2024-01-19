@@ -4,7 +4,7 @@ Cada equipo debe generar un reporte digital en pdf, indicando los resultados y p
 También deben entregar los archivos generados por FLAC/SLOPE para cada resolución.
 Si es necesario el equipo puede incluir una memoria de cálculo en Anexos. 
 
-## Puntaje por respuestas (80% nota)
+## Puntaje por respuestas (90% nota)
 
 ### Parte 1 (40% del total)
 
@@ -17,12 +17,14 @@ Si es necesario el equipo puede incluir una memoria de cálculo en Anexos.
 respectivamente. ¿Qué cambios de diseño propone para cumplir con la normativa? (40%)
 5. Comente acerca del impacto económico que implican estos cambios. (5%)
 
-### Parte 1 (60% del total)
+### Parte 1 (50% del total)
 
 1. Realice nuevamente el ejercicio anterior, esta vez, sin considerar la roca Jarufita. 
 El nuevo escenario proyecta la Suzukita y la Manriquecita a la superficie.¿Es estable? (30%)
 2. Explique cómo incorporaría el efecto de la tronadura en el ejercicio y repita el análisis. (30%).
 3. Considerando la incertidumbre, determine la probabilidad de falla del talud con estas nuevas consideraciones. (40%) 
 
-## Formato Entrega (20% nota)
+## Formato Entrega (10% nota)
+
+![Logo ITASCA](./media/RubricaRedaccion.jpg ':size=100%')
 
