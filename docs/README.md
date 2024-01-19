@@ -9,4 +9,4 @@ Debido a cambios en el enunciado, se tomó la decision de agregar 1 semana adici
 También se actualizaron las páginas:
 - Tutorial FLAC/Slope
 - Rubrica de evaluación
-- Participantes
+- Participantes 
