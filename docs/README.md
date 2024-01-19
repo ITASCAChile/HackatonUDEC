@@ -5,5 +5,8 @@
 
 ## UPDATE fecha de entrega: 2 de Febrero de 2024
 
-Debido a cambios en el enunciado, se tomó la decision de agregar 5 días adicionales a la fecha de entrega. Además 
-también se agregarán los videos tutorial y una rúbrica del formato de entrega.
+Debido a cambios en el enunciado, se tomó la decision de agregar 1 semana adicional a la fecha de entrega. 
+También se actualizaron las páginas:
+- Tutorial FLAC/Slope
+- Rubrica de evaluación
+- Participantes
