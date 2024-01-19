@@ -26,5 +26,7 @@ El nuevo escenario proyecta la Suzukita y la Manriquecita a la superficie.¿Es e
 
 ## Formato Entrega (10% nota)
 
-![Logo ITASCA](./media/RubricaRedaccion.jpg ':size=100%')
+![Logo ITASCA](./media/RubricaRedaccion.jpg ':size=80%')
+
+Gracias a Kimie Suzuki (Universidad de Chile) por el aporte de la rúbrica! 
 
