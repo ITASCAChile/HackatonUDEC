@@ -25,7 +25,7 @@ Métodos adicionales deben ser citados y referenciados en el resultado a entrega
 
 ## Presentación y Demostración
 
-Cada equipo tiene 2 semanas para entregar el proyecto (26 de Enero del 2024). Debe generar un reporte digital en pdf, indicando los resultados y propuesta. 
+Cada equipo tiene 3 semanas para entregar el proyecto (2 de Febrero del 2024). Debe generar un reporte digital en pdf, indicando los resultados y propuesta. 
 También deben entregar los archivos generados por FLAC/SLOPE.
 Si es necesario el equipo puede incluir una memoria de cálculo en Anexos. 
 
