@@ -2,7 +2,6 @@
 
 ## Elegibilidad
 La hackathon está abierta a estudiantes universitarios participantes del Workshop Minero - Últimas tendencias en planificación y geomecánica, realizado el 11 y 12 de Enero del 2024.
-Los participantes deben estar inscritos en el workshop.
 
 ## Equipos
 
