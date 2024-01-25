@@ -12,4 +12,4 @@
 | Team 6 | Josué Yevilao*                    | Carlos González     |
 | Team 7 | Fabian Venegas                    | Francisca Carmona*  |
 | Team 8 | Karla Gallegos*                   | Sebastián Sandoval* |
-| Team 8 | Diego Merino                      | Constanza Romero*   |
+| Team 9 | Diego Merino                      | Constanza Romero*   |
